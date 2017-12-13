@@ -1,10 +1,10 @@
 # Algoritmo neuro evolutivo aplicado a mecanica de um jogo 2D
 A neuro-evolução é uma técnica de aprendizado de máquina que aplica algoritmos evolucionários para construir uma rede neural artificial, tendo como inspiração o processo biológico evolutivo do sistema nervoso na natureza.
 
+A seguir um breve resumo e uma conclusão. Para mais detalhes a monografia completa está disponivel para download no próprio repositório.
+
 # Resumo
 Machine learning ou aprendizado de máquina em inteligência artificial é um tema relacionado à implementação de programas de computador capazes de realizar o processo de aprendizagem de forma autônoma.
-
-A neuro-evolução é uma técnica de aprendizado de máquina que aplica algoritmos evolucionários para construir uma rede neural artificial, tendo como inspiração o processo biológico evolutivo do sistema nervoso na natureza.
 
 Através da neuro-evolução é possível resolver não só problemas onde se tenham respostas conhecidas, como também desenvolver agentes inteligentes que aprendem a interagir com um determinado ambiente apropriadamente e encontrar soluções desconhecidas.
 
