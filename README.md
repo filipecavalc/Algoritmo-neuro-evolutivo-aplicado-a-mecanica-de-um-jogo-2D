@@ -1,5 +1,4 @@
 # Algoritmo neuro evolutivo aplicado a mecanica de um jogo 2D
-===========
 
 ![python-version](https://img.shields.io/badge/Python-2.7-blue.svg)
 
