@@ -8,6 +8,8 @@ Link para a biblioteca utilizada no processo neuro-evolutivo: http://neat-python
 
 Link para o framework utilizado: https://github.com/karinemiras/evoman_framework
 
+## Como iniciar um teste
+
 Para executar um dos testes distribuidos pelas pastas é so iniciar o arquivo Neat-EvoMan.py com IDLE ou diretamente no console.
 
 A neuro-evolução é uma técnica de aprendizado de máquina que aplica algoritmos evolucionários para construir uma rede neural artificial, tendo como inspiração o processo biológico evolutivo do sistema nervoso na natureza.
