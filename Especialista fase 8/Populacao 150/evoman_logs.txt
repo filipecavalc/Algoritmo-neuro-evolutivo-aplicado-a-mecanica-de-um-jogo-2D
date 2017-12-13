@@ -1,0 +1,3 @@
+
+
+WARNING: Pygame initialized for simulation.
