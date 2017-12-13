@@ -4,6 +4,9 @@
 ![NEAT-Python](https://img.shields.io/badge/NEAT--Python-Biblioteca-brightgreen.svg)
 ![EvoMan](https://img.shields.io/badge/EvoMan-Framework-brightgreen.svg)
 
+Link para a biblioteca utilizada no processo neuro-evolutivo: http://neat-python.readthedocs.io
+Link para o framework utilizado: https://github.com/karinemiras/evoman_framework
+
 A neuro-evolução é uma técnica de aprendizado de máquina que aplica algoritmos evolucionários para construir uma rede neural artificial, tendo como inspiração o processo biológico evolutivo do sistema nervoso na natureza.
 
 A seguir um breve resumo e uma conclusão. Para mais detalhes a monografia completa está disponivel para download no próprio repositório.
