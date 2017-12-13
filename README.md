@@ -1,6 +1,6 @@
 # Algoritmo neuro evolutivo aplicado a mecanica de um jogo 2D
 
-![python-version](https://img.shields.io/badge/Python-2.7-blue.svg)
+![python-version](https://img.shields.io/badge/Python%202.7-100%25-brightgreen.svg)
 
 A neuro-evolução é uma técnica de aprendizado de máquina que aplica algoritmos evolucionários para construir uma rede neural artificial, tendo como inspiração o processo biológico evolutivo do sistema nervoso na natureza.
 
