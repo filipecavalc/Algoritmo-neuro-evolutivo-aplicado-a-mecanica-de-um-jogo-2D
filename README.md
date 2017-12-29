@@ -12,6 +12,8 @@ Link para a biblioteca utilizada no processo neuro-evolutivo: http://neat-python
 
 Link para o framework utilizado: https://github.com/karinemiras/evoman_framework
 
+<img alt="ciclo-algoritmo-neuro-evolutivo-evoman" src="https://raw.githubusercontent.com/filipecavalc/Algoritmo-neuro-evolutivo-aplicado-a-mecanica-de-um-jogo-2D/master/ciclo-algoritmo-neuro-evolutivo-evoman.png" width="500">
+
 ## Como iniciar um teste
 
 Para executar um dos testes distribuidos pelas pastas é so iniciar o arquivo Neat-EvoMan.py com IDLE ou diretamente no console.
